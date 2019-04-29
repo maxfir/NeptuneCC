@@ -1,2 +1,2 @@
 # NeptuneCC
-Slalom skiing cruise control
+Cruise control for carbureted inboard engine. Designed for use while slalom skiing.
